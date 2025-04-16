@@ -26,19 +26,20 @@ Incluye el diseño de la base de datos, diagramas UML y prototipos de la interfa
 - Visualizador de imágenes para revisar los diagramas y prototipos.
 
 ---
- 🚀 Cómo Empezar
+---
+
+## 🚀 Cómo Empezar
 
 1. Clona este repositorio en tu máquina local:
 
-```bash
-git clone https://github.com/strayxd/hotel-pacific-ree.git
-Revisa los diagramas UML y los prototipos de la interfaz para comprender la arquitectura y el diseño del sistema.
+   ```bash
+   git clone https://github.com/strayxd/hotel-pacific-ree.git
+- Importa los scripts DDL.sql y CRUD.sql en tu sistema de gestión de bases de datos para crear y poblar la base de datos.
+- Revisa los diagramas UML y los prototipos de la interfaz para comprender la arquitectura y el diseño del sistema.
 
----
 🤝 Contribuciones
 Este proyecto fue desarrollado con fines educativos y pertenece al Grupo 2 de la asignatura Ingeniería de Software
 de la carrera Analista Programador Computacional, y no está abierto a contribuciones externas en este momento.
 
----
 📄 Licencia
 Por favor, consulta con el autor para obtener más información sobre los derechos de uso.
